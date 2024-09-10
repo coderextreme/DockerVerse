@@ -12,7 +12,7 @@ Download install.sh from this repo: https://github.com/coderextreme/DockerVerse
 bash install.sh
 ```
 
-## In another windwo, get IP address, launch firefox or chromium-browswer:
+## In another window, get IP address, launch firefox or chromium-browswer:
 ```
 bash ip.sh
 ```
