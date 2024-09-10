@@ -6,10 +6,10 @@ For Linux systems (and maybe other Unices that have docker and sudo)
 
 ## Preliminaries
 
-Install docker:
-
+Install docker, git and openssh-client
 ```
-apt-get install docker
+apt-get update && \
+    apt-get install -y docker git openssh-client
 ```
 
 Install DockerVerse:
