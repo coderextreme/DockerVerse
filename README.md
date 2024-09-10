@@ -23,3 +23,8 @@ bash ip.sh
 ```
 bash removeall.sh
 ```
+
+## To restart
+```
+bash deploy.sh
+```
