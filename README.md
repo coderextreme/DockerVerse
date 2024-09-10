@@ -1,5 +1,5 @@
 # DockerVerse
-Dockerfile, dock.sh deployment, ip.sh IP detection, start.sh script to start both Argonverse and JSONverse in same container
+Dockerfile, deploy.sh deployment, ip.sh IP detection, start.sh script to start both Argonverse and JSONverse in same container
 
 For Linux systems (and maybe other Unices that have docker and sudo)
 
