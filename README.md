@@ -12,6 +12,13 @@ Install docker:
 apt-get install docker
 ```
 
+Install DockerVerse:
+
+```
+git clone https://github.com/coderextreme/DockerVerse
+cd DockerVerse
+```
+
 ## Deploy:
 ```
 bash deploy.sh
