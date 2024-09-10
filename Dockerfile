@@ -13,4 +13,7 @@ COPY start.sh start.sh
 RUN git clone https://github.com/coderextreme/JSONverse JSONverse
 RUN git clone https://github.com/coderextreme/Argonverse Argonverse
 
+RUN cd JSONverse && npm install
+RUN cd Argonverse && npm install
+
 CMD ["./start.sh"]
