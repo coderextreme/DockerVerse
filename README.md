@@ -24,7 +24,7 @@ cd DockerVerse
 bash deploy.sh
 ```
 
-## Get IP address, launch firefox:
+## Get IP address, launch firefox or chromium-browswer:
 ```
 bash ip.sh
 ```
