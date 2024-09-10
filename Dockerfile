@@ -1,9 +1,5 @@
 FROM node:22.8.0
 
-# FROM httpd:2.4
-
-# COPY ./public-html/ /usr/local/apache2/htdocs/
- 
 # Install git and openssh-client
 RUN apt-get update && \
     apt-get install -y git openssh-client
