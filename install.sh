@@ -3,7 +3,7 @@
 #
 ## Preliminaries
 sudo apt-get update && \
-    sudo apt-get install -y docker git openssh-client
+    sudo apt-get install -y git openssh-client
 # copy the docker deployment
 git clone https://github.com/coderextreme/DockerVerse
 cd DockerVerse
